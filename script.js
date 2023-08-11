@@ -5,3 +5,7 @@ const Hello = () => {
 const logger = () => {
     console.log('logging');
 }
+
+const fetch = () => {
+    fetch()
+}
